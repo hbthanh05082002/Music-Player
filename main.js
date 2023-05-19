@@ -163,7 +163,7 @@ const songs = [
         name: 'Sayonara No Natsu (From Up On Poppy Hill OST)',
         singer: 'Teshima Aoi',
         path: './assets/music/song25.mp3',
-        image: './assets/img/song25.jpg',
+        image: './assets/img/song25.png',
     },
     {
         name: '【感情を込めて】ハレハレヤ 歌ってみた - Harehare Ya',
