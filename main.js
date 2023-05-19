@@ -153,6 +153,24 @@ const songs = [
         path: './assets/music/song23.mp3',
         image: './assets/img/song23.jpg',
     },
+    {
+        name: '上海滩 - Bến Thượng Hải',
+        singer: 'Diệp Lệ Nghi',
+        path: './assets/music/song24.mp3',
+        image: './assets/img/song24.jpg',
+    },
+    {
+        name: 'Sayonara No Natsu (From Up On Poppy Hill OST)',
+        singer: 'Teshima Aoi',
+        path: './assets/music/song25.mp3',
+        image: './assets/img/song25.jpg',
+    },
+    {
+        name: '【感情を込めて】ハレハレヤ 歌ってみた - Harehare Ya',
+        singer: 'Sou',
+        path: './assets/music/song26.mp3',
+        image: './assets/img/song26.jpg',
+    },
 ];
 
 const cd = $('.cd');
