@@ -75,6 +75,12 @@ const songs = [
         path: './assets/music/song10.mp3',
         image: './assets/img/song10.jpg',
     },
+    {
+        name: '羽肿 - Windy Hill',
+        singer: '羽肿',
+        path: './assets/music/song11.mp3',
+        image: './assets/img/song11.jpg',
+    },
 ];
 
 const cd = $('.cd');
