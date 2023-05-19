@@ -81,6 +81,78 @@ const songs = [
         path: './assets/music/song11.mp3',
         image: './assets/img/song11.jpg',
     },
+    {
+        name: 'Hẹn Ước Từ Hư Vô',
+        singer: 'Mỹ Tâm',
+        path: './assets/music/song12.mp3',
+        image: './assets/img/song12.jpg',
+    },
+    {
+        name: 'Huế Và Em',
+        singer: 'Hà Thu',
+        path: './assets/music/song13.mp3',
+        image: './assets/img/song13.jpg',
+    },
+    {
+        name: 'Để Mị Nói Cho Mà Nghe',
+        singer: 'Hoàng Thùy Linh',
+        path: './assets/music/song14.mp3',
+        image: './assets/img/song14.jpg',
+    },
+    {
+        name: 'Khi nào',
+        singer: 'Châu Dương',
+        path: './assets/music/song15.mp3',
+        image: './assets/img/song15.jpg',
+    },
+    {
+        name: 'Tình Hồng Như Mơ',
+        singer: 'Cẩm Ly, Đan Trường',
+        path: './assets/music/song16.mp3',
+        image: './assets/img/song16.jpg',
+    },
+    {
+        name: 'Đại Ngư (Đại Ngư Hải Đường OST)',
+        singer: 'Chu Thâm',
+        path: './assets/music/song17.mp3',
+        image: './assets/img/song17.jpg',
+    },
+    {
+        name: "Merry Go Round Of Life (Howl's Moving Castle OST)",
+        singer: 'Joe Hasaishi',
+        path: './assets/music/song18.mp3',
+        image: './assets/img/song18.jpg',
+    },
+    {
+        name: 'Beautiful In White',
+        singer: 'Shane Filan',
+        path: './assets/music/song19.mp3',
+        image: './assets/img/song19.jpg',
+    },
+    {
+        name: 'Still Together',
+        singer: 'Bright Vachirawit, Win Metawin',
+        path: './assets/music/song20.mp3',
+        image: './assets/img/song20.jpg',
+    },
+    {
+        name: 'Cô Đôi Thượng Ngàn',
+        singer: 'Nguyễn Thiện Nhân',
+        path: './assets/music/song21.mp3',
+        image: './assets/img/song21.jpg',
+    },
+    {
+        name: 'Mộng Chiều Xuân (Thu Thanh 1975)',
+        singer: 'Lệ Thu',
+        path: './assets/music/song22.mp3',
+        image: './assets/img/song22.jpg',
+    },
+    {
+        name: 'Biển Tình (Thu Thanh 1975)',
+        singer: 'Thanh Tuyền',
+        path: './assets/music/song23.mp3',
+        image: './assets/img/song23.jpg',
+    },
 ];
 
 const cd = $('.cd');
